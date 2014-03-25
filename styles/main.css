@@ -589,7 +589,7 @@ li.grid-wide-half:nth-of-type(odd) {
   -webkit-translate: translateZ(0); }
 
 #liftoff {
-  background-image: url("../images/clouds.jpg"); }
+  background-image: url("../images/world.png"); background-position:center; }
 
 #challenges {
   background-image: url("../images/city.jpg");
