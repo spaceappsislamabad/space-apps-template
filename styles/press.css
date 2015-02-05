@@ -562,8 +562,11 @@ input[type="submit"] {
     color: #797979; }
     .in-news blockquote footer span {
       color: #f1583d; }
+	  
 
 @media all and (min-width: 1024px) {
   body:after {
     content: 'desktop';
     display: none; } }
+	
+	
